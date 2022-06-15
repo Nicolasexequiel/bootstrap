@@ -1,0 +1,10 @@
+.carousel-inner{
+    max-width: 50rem ;
+    margin: auto;
+}
+nav{
+    background-color: black;
+}
+.mainHistoria{
+background-image: url(../imagenes/ASG-LOGO.jpg);
+}
